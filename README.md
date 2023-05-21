@@ -15,13 +15,34 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 ### Hint:
 Home Team, Home Team Score, Away Team, Away Team Score, Year, Home Team Rank, Away Team Rank, Tournament Type, Status (W,L,D) Morocco 2 Kenya 1 2003 20 58 World Cup Win
 
-* Context A more detailed explanation and history of the rankings is available here: [Link (Links to an external site.)]
-* An explanation of the ranking procedure is available here: [Link (Links to an external site.)]
+* Context A more detailed explanation and history of the rankings is available here: <https://en.wikipedia.org/wiki/FIFA_World_Rankings>
+* An explanation of the ranking procedure is available here:<[https://www.fifa.com/fifa-world-ranking/procedure/men.html]>
 
 ## Dataset Columns
-Some features are available on the FIFA ranking page [Link (Links to an external site.)].
-The dataset and glossary to use for this project can be found here. [Link (Links to an external site.)]
-Rank Country Abbreviation Total Points Previous Points Rank Change Average Previous Years Points Average Previous Years Points Weighted (50%) Average 2 Years Ago Points Average 2 Years Ago Points Weighted (30%) Average 3 Years Ago Points Average 3 Years Ago Points Weighted (20%) Confederation Date - date of the match Home_team - the name of the home team Away_team - the name of the away team Home_score - full-time home team score including extra time, not including penalty-shootouts Away_score - full-time away team score including extra time, not including penalty-shootouts Tournament - the name of the tournament City - the name of the city/town/administrative unit where the match was played Country - the name of the country where the match was played Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue Assessment Expectation
+* Some features are available on the FIFA ranking page <[https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html]>
+* The dataset and glossary to use for this project can be found here. <https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc>
+
+* Rank 
+* Country Abbreviation 
+* Total Points 
+* Previous Points 
+* Rank Change 
+* Average Previous Years Points 
+* Average Previous Years Points Weighted (50%)
+*  Average 2 Years Ago Points 
+*  Average 2 Years Ago Points Weighted (30%) 
+*  Average 3 Years Ago Points 
+*  Average 3 Years Ago Points Weighted (20%) 
+*  Confederation 
+*  Date - date of the match
+*  Home_team - the name of the home team 
+*  Away_team - the name of the away team Home_score 
+*  full-time home team score including extra time, not including penalty-shootouts 
+*  Away_score - full-time away team score including extra time, not including penalty-shootouts 
+*  Tournament - the name of the tournament 
+*  City - the name of the city/town/administrative unit where the match was played 
+*  Country - the name of the country where the match was played 
+*  Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue Assessment Expectation
 
 ### In order to work on the above problem, you need to do the following:
 * Define the question
