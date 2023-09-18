@@ -1,4 +1,4 @@
-## As a football analyst in a company - Mchezopesa Ltd predict the result of a game between team 1 and team 2
+### As a football analyst in a company - Mchezopesa Ltd predict the result of a game between team 1 and team 2
 
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below. 
 * A prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training).
@@ -15,12 +15,12 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 ### Hint:
 Home Team, Home Team Score, Away Team, Away Team Score, Year, Home Team Rank, Away Team Rank, Tournament Type, Status (W,L,D) Morocco 2 Kenya 1 2003 20 58 World Cup Win
 
-* Context A more detailed explanation and history of the rankings is available here: <https://en.wikipedia.org/wiki/FIFA_World_Rankings>
-* An explanation of the ranking procedure is available here:<[https://www.fifa.com/fifa-world-ranking/procedure/men.html]>
+* Context A more detailed explanation and history of the rankings is available here: [https://en.wikipedia.org/wiki/FIFA_World_Rankings]
+* An explanation of the ranking procedure is available here: [https://www.fifa.com/fifa-world-ranking/procedure/men.html]
 
 ## Dataset Columns
-* Some features are available on the FIFA ranking page <[https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html]>
-* The dataset and glossary to use for this project can be found here. <https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc>
+* Some features are available on the FIFA ranking page  [https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html]
+* The dataset and glossary to use for this project can be found here. [<https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc>]
 
 * Rank 
 * Country Abbreviation 
